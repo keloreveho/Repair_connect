@@ -1,0 +1,7 @@
+﻿# Configuration locale
+connexion.php
+
+# Fichiers temporaires
+*.log
+.env
+.env.*
